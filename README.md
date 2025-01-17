@@ -4,7 +4,7 @@
 
 > Woooow! Look at this 👀
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+Olá pessoal, MMati aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO me convidou a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
 
 ## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
 
@@ -20,22 +20,25 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Podcast de cinema: O legado de David Lynch ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Uma breve visita a obra do renomado diretor David Lynch, que faleceu em 16/01/2025
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Chat GPT para o roteiro
+ElevenLabs para a geração do áudio
+Capcut para a edição e trilha sonora
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Primeiramente utilizei o prompt Faça um podcast sobre o obituário de David Lynch citando suas principais obras e a importância no cinema.
+Em seguida, revisei o texto e transformei em audio no ElevenLabs. Em seguida, editei e inclui trilha sonora no Capcut e exportei em MP3.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+[Podcast](/exemplos/Podcast de cinema.MP3)
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Os recursos estão evoluindo com grande velocidade. É uma ótima oportunidade acompanhar e conhecer esse processo.
 ```
 
 ### Exemplos e Insigths
