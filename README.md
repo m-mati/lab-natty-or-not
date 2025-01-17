@@ -52,3 +52,23 @@ Os recursos estão evoluindo com grande velocidade. É uma ótima oportunidade a
 [Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
 
 ![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+
+<p>
+    <img 
+      align=left 
+      margin=10 
+      width=80 
+      src="https://avatars.githubusercontent.com/u/67970413?v=4"
+    />
+    <p>&nbsp&nbsp&nbspMMati<br>
+    &nbsp&nbsp&nbsp
+    <a href="https://github.com/m-mati">
+    GitHub</a>&nbsp;|&nbsp;
+    <a href="https://www.linkedin.com/in/mmatias-araujo/">LinkedIn</a>
+&nbsp;|&nbsp;
+    <a href="https://www.instagram.com/majormati/">
+    Instagram</a>
+&nbsp;|&nbsp;</p>
+</p>
+<br/><br/>
+<p>
