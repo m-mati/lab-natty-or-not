@@ -35,7 +35,7 @@ Primeiramente utilizei o prompt Faça um podcast sobre o obituário de David Lyn
 Em seguida, revisei o texto e transformei em audio no ElevenLabs. Em seguida, editei e inclui trilha sonora no Capcut e exportei em MP3.
 
 ## 🚀 Resultados
-[Podcast](/exemplos/Podcast_de_cinema.MP3)
+[Podcast](/exemplos/Podcastdecinema.MP3)
 
 ## 💭 Reflexão (Opcional)
 Os recursos estão evoluindo com grande velocidade. É uma ótima oportunidade acompanhar e conhecer esse processo.
