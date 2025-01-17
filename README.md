@@ -6,7 +6,6 @@
 
 Olá pessoal, MMati aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO me convidou a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
 
-```markdown
 # Podcast de cinema: O legado de David Lynch ;)
 
 ## 📒 Descrição
@@ -26,7 +25,6 @@ Em seguida, revisei o texto e transformei em audio no ElevenLabs. Em seguida, ed
 
 ## 💭 Reflexão (Opcional)
 Os recursos estão evoluindo com grande velocidade. É uma ótima oportunidade acompanhar e conhecer esse processo.
-```
 
 ### Exemplos e Insigths
 
