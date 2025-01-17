@@ -5,20 +5,6 @@
 > Woooow! Look at this 👀
 
 Olá pessoal, MMati aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO me convidou a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
 ```markdown
 # Podcast de cinema: O legado de David Lynch ;)
 
@@ -35,7 +21,8 @@ Primeiramente utilizei o prompt Faça um podcast sobre o obituário de David Lyn
 Em seguida, revisei o texto e transformei em audio no ElevenLabs. Em seguida, editei e inclui trilha sonora no Capcut e exportei em MP3.
 
 ## 🚀 Resultados
-[Podcast](/exemplos/Podcastdecinema.MP3)
+- [Podcast](/exemplos/PODCAST.md)
+- [Podcast](/exemplos/Podcastdecinema.MP3)
 
 ## 💭 Reflexão (Opcional)
 Os recursos estão evoluindo com grande velocidade. É uma ótima oportunidade acompanhar e conhecer esse processo.
@@ -46,6 +33,8 @@ Os recursos estão evoluindo com grande velocidade. É uma ótima oportunidade a
 - [E-BOOK](/exemplos/E-BOOK.md)
 - [Podcast](/exemplos/PODCAST.md)
 - [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+- [Podcast](/exemplos/PODCAST.md)
+- - [Podcast](/exemplos/Podcastdecinema.MP3)
 
 ## Links Interessantes
 
