@@ -5,6 +5,7 @@
 > Woooow! Look at this 👀
 
 Olá pessoal, MMati aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO me convidou a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+
 ```markdown
 # Podcast de cinema: O legado de David Lynch ;)
 
@@ -21,8 +22,7 @@ Primeiramente utilizei o prompt Faça um podcast sobre o obituário de David Lyn
 Em seguida, revisei o texto e transformei em audio no ElevenLabs. Em seguida, editei e inclui trilha sonora no Capcut e exportei em MP3.
 
 ## 🚀 Resultados
-
-[Podcast](/exemplos/Podcastdecinema.MP3)
+- [Podcast](/exemplos/Podcastdecinema.MP3)
 
 ## 💭 Reflexão (Opcional)
 Os recursos estão evoluindo com grande velocidade. É uma ótima oportunidade acompanhar e conhecer esse processo.
@@ -31,10 +31,10 @@ Os recursos estão evoluindo com grande velocidade. É uma ótima oportunidade a
 ### Exemplos e Insigths
 
 - [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
+
 - [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
 
-- - [Podcast](/exemplos/Podcastdecinema.MP3)
+- [Podcast](/exemplos/PODCAST.md)
 
 ## Links Interessantes
 
